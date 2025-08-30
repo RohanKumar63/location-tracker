@@ -1,12 +1,22 @@
-# React + Vite
+# 📍 Location Tracker Web App  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React-based web app to track and share your live location.  
 
-Currently, two official plugins are available:
+## 🚀 Features  
+- Show current location on interactive map (Leaflet + OpenStreetMap)  
+- Shareable location link  
+- Responsive and modern UI  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack  
+- React.js (Vite)  
+- HTML5, CSS3  
+- Leaflet + OpenStreetMap  
+- HTML5 Geolocation API  
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⚡ Getting Started  
+Clone the repo and run locally:  
+```bash
+git clone https://github.com/your-username/location-tracker.git
+cd location-tracker
+npm install
+npm run dev
