@@ -1,4 +1,3 @@
-/* Reset */
 * {
   margin: 0;
   padding: 0;
@@ -16,7 +15,6 @@ body {
   padding: 20px;
 }
 
-/* Main container */
 .container {
   width: 100%;
   max-width: 1200px;
@@ -25,7 +23,6 @@ body {
   align-items: center;
 }
 
-/* Title */
 .title {
   font-size: 2.2rem;
   font-weight: 700;
@@ -34,7 +31,6 @@ body {
   text-align: center;
 }
 
-/* Control buttons */
 .controls {
   display: flex;
   justify-content: center;
@@ -59,7 +55,6 @@ button:hover {
   background: #1e40af;
 }
 
-/* Map */
 .map-container {
   width: 100%;
   max-width: 1000px;
@@ -71,7 +66,6 @@ button:hover {
   margin-bottom: 25px;
 }
 
-/* Info card */
 .info-card {
   width: 100%;
   max-width: 1000px;
@@ -88,7 +82,6 @@ button:hover {
   margin: 6px 0;
 }
 
-/* Share link */
 .share-link {
   width: 100%;
   max-width: 1000px;

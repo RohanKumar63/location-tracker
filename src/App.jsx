@@ -49,7 +49,7 @@ function App() {
 
           <div className="share-link">
             <p>
-              🌐 Share this location: <br />
+              Share this location: <br />
               <a href={shareLink} target="_blank" rel="noreferrer">
                 {shareLink}
               </a>
