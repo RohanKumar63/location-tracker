@@ -2,4 +2,3 @@ node_modules
 dist
 .env
 *.log
-Location_Tracker_Documentation.pdf
